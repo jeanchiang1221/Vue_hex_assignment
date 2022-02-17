@@ -1,10 +1,10 @@
 
-Week3作業<br>
-登入頁面:https://jeanchiang1221.github.io/Vue_hex_assignment/Week3/login.html
-後臺產品頁面:https://jeanchiang1221.github.io/Vue_hex_assignment/Week3/admin.html
+<h2>Week3作業</h2><br>
+登入頁面:https://jeanchiang1221.github.io/Vue_hex_assignment/Week3/login.html <br>
+後臺產品頁面:https://jeanchiang1221.github.io/Vue_hex_assignment/Week3/admin.html <br>
 
-Week2作業
-登入頁面:https://jeanchiang1221.github.io/Vue_hex_assignment/Week2/index.html
-後臺產品頁面:https://jeanchiang1221.github.io/Vue_hex_assignment/Week2/products.html
+<h2>Week2作業</h2><br>
+登入頁面:https://jeanchiang1221.github.io/Vue_hex_assignment/Week2/index.html <br>
+後臺產品頁面:https://jeanchiang1221.github.io/Vue_hex_assignment/Week2/products.html <br>
 
 # Vue_hex_assignment
